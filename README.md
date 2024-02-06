@@ -1,6 +1,5 @@
 
-![Logo]([https://i.pinimg.com/originals/88/15/63/881563d6444b370fa4ceea0c3183bb4c.gif](https://i.redd.it/eti95tjbyb7a1.gif))
-
+![Logo](https://i.redd.it/eti95tjbyb7a1.gif)
 
 # Hi, I'm Daniel! 👋
 
