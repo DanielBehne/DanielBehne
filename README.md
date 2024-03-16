@@ -17,15 +17,15 @@ A passionate AP Computer Science Student!
 
 
 ## 🚀 About Me
-I'm a high school  learning Java and Python
+I'm a high school  learning Java, Python, HTML, and CSS.
 
 
-👩‍💻 I'm currently working on Connect 4
+👩‍💻 I'm currently working on TicTacToe.
 
 
 
 ## 🛠 Skills
-Java, Python
+Java GUI building.
 
 
 ## 🔗 Links
