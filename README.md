@@ -1,7 +1,5 @@
 
-![Logo](https://i.redd.it/eti95tjbyb7a1.gif)
-
-# Hi, I'm Daniel! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Daniel!;I+have+been+programming+for+2ish+years.;I+love+my+dog+😁;Mr.+Jaffe+is+a+great+teacher!)](https://git.io/typing-svg)
 
 
 
