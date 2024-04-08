@@ -9,7 +9,7 @@ A passionate AP Computer Science Student!
 ## Collaborators😁
 
 - [@DanielBehne](https://github.com/DanielBehne)
-- [@DerekNgo619](https://github.com/DerekNgo619)
+- [@chemistryAP](https://github.com/chemistryAP)
 - [@kaedenkiffe](https://github.com/kaedenkiffe)
 
 
