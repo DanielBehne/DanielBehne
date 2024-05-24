@@ -15,7 +15,7 @@ A passionate AP Computer Science Student!
 
 
 ## 🚀 About Me
-I'm a high school  learning Java, Python, HTML, and CSS.
+I'm a stupendous and tremendous high school student learning Java, Python, HTML, and CSS.
 
 
 👩‍💻 I'm currently working on TicTacToe.
